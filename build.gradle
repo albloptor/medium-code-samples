@@ -1,0 +1,25 @@
+plugins {
+    id 'groovy'
+    id 'java'
+}
+
+group 'com.albertolopez'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+
+dependencies {
+    testImplementation 'org.spockframework:spock-core:2.0-groovy-3.0'
+}
+
+test {
+    useJUnitPlatform()
+}
