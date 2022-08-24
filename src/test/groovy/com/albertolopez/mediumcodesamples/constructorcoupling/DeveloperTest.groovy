@@ -1,8 +1,5 @@
 package com.albertolopez.mediumcodesamples.constructorcoupling
 
-import com.albertolopez.mediumcodesamples.constructorcoupling.Developer
-import com.albertolopez.mediumcodesamples.constructorcoupling.EnergyOutOfRangeException
-import com.albertolopez.mediumcodesamples.constructorcoupling.TooTiredToEvenPretendToWorkException
 import spock.lang.Specification
 
 class DeveloperTest extends Specification {
