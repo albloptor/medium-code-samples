@@ -1,0 +1,3 @@
+package com.albertolopez.mediumcodesamples.constructorcoupling
+
+class EnergyOutOfRangeException : IllegalArgumentException()

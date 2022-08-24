@@ -1,6 +1,7 @@
 plugins {
     id 'groovy'
     id 'java'
+    id "org.jetbrains.kotlin.jvm" version "1.7.10"
 }
 
 group 'com.albertolopez'
@@ -17,7 +18,7 @@ java {
 }
 
 dependencies {
-    testImplementation 'org.spockframework:spock-core:2.0-groovy-3.0'
+    testImplementation 'org.spockframework:spock-core:2.2-M3-groovy-4.0'
 }
 
 test {
