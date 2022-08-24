@@ -1,4 +1,4 @@
-package com.albertolopez.medium_code_samples.test_data_builders;
+package mediumcodesamples.testdatabuilders;
 
 public class Person {
 

@@ -1,5 +1,6 @@
-package com.albertolopez.medium_code_samples.test_data_builders
+package com.albertolopez.mediumcodesamples.testdatabuilders
 
+import mediumcodesamples.testdatabuilders.Person
 import spock.lang.Specification
 
 class PersonTest extends Specification {

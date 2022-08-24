@@ -1,3 +1,3 @@
-package com.albertolopez.mediumcodesamples.constructorcoupling
+package mediumcodesamples.constructorcoupling
 
 class TooTiredToEvenPretendToWorkException : RuntimeException()
