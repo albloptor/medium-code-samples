@@ -1,4 +1,4 @@
-package mediumcodesamples.constructorcoupling
+package com.albertolopez.mediumcodesamples.constructorcoupling
 
 import kotlin.math.max
 

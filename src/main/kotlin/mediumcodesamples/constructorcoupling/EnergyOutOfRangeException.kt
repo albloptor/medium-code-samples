@@ -1,3 +1,0 @@
-package mediumcodesamples.constructorcoupling
-
-class EnergyOutOfRangeException : IllegalArgumentException()
